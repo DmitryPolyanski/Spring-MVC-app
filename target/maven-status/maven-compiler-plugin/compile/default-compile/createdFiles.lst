@@ -1,0 +1,5 @@
+by\polyanski\springmvc\config\MySpringDispatcherSerlvetIntitializer.class
+by\polyanski\springmvc\HelloController.class
+by\polyanski\springmvc\config\SpringConfig.class
+by\polyanski\springmvc\controllers\SecondController.class
+by\polyanski\springmvc\controllers\FirstController.class
